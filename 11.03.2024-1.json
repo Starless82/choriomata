@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Williams",
+    "age": 46,
+    "address": {
+        "street": "Mitchell Crossing",
+        "city": "New Angela",
+        "state": "North Carolina",
+        "zip": "09360"
+    },
+    "contact": {
+        "phone": "(305)715-6750",
+        "servicePhone": "800133588"
+    },
+    "birthday": "1979-03-05",
+    "ip": "189.14.243.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Final church those course if. Always would pass Congress. Stage per often at particular according read meet.\nAttorney loss nor help. Pass side watch truth.",
+        "bio": "Subject already deal TV mind address cover response. End sea while join interest question. Sing way draw candidate."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
