@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Vargas",
+    "age": 21,
+    "address": {
+        "street": "Brian Point",
+        "city": "Brooketown",
+        "state": "Rhode Island",
+        "zip": "89407"
+    },
+    "contact": {
+        "phone": "(559)595-2153x05943",
+        "servicePhone": "800900447"
+    },
+    "birthday": "2004-14-01",
+    "ip": "103.247.156.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull task move. Spring expert check art organization director. And look method major time instead apply write.\nProve will war father once. Better check only short him simple perhaps.",
+        "bio": "At go my sit such ago. Wonder oil main truth rather hope however.\nMorning join side inside head throw. Watch apply police instead single small. Laugh none small doctor."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
