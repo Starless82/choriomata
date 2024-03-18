@@ -1,0 +1,25 @@
+{
+    "name": "Todd Thomas",
+    "age": 34,
+    "address": {
+        "street": "Barbara Court",
+        "city": "New Michael",
+        "state": "Oregon",
+        "zip": "29236"
+    },
+    "contact": {
+        "phone": "354.338.8217",
+        "servicePhone": "800738249"
+    },
+    "birthday": "1991-28-07",
+    "ip": "128.164.24.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Trade appear future. Spend former poor book both.\nAgo we scientist. Side PM Republican by measure international nor. Yard own check reach himself.\nEast or several. Those teach argue last soldier six.",
+        "bio": "During measure respond traditional. Next thought why check dinner. Hear near tax leg he station old.\nMiss day personal person as method particular. Stock wife general factor. Half southern more."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
