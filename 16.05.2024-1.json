@@ -1,0 +1,25 @@
+{
+    "name": "Ana Cunningham",
+    "age": 82,
+    "address": {
+        "street": "Miller Stream",
+        "city": "Port Timothy",
+        "state": "Michigan",
+        "zip": "47780"
+    },
+    "contact": {
+        "phone": "+1-621-354-8052x3799",
+        "servicePhone": "800565790"
+    },
+    "birthday": "1943-05-01",
+    "ip": "161.71.207.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Either court over detail feeling could. Race imagine make speech.",
+        "bio": "Us campaign song deal.\nWind war into identify each since. Someone now push no show total land business. Glass special measure."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
