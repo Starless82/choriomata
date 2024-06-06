@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Farmer",
+    "age": 64,
+    "address": {
+        "street": "Frank Alley",
+        "city": "Jesusmouth",
+        "state": "Kansas",
+        "zip": "80375"
+    },
+    "contact": {
+        "phone": "001-365-477-6354x82016",
+        "servicePhone": "800352040"
+    },
+    "birthday": "1961-29-05",
+    "ip": "86.193.210.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Mouth enough author true general hold play.\nKid eight enjoy operation data according.\nHer hear out clearly. No prove behavior source. Player certainly read bag.",
+        "bio": "Director land series eat report. Week accept threat paper them. Why strategy would bit rest. Join article reveal speech mind."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
