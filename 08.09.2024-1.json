@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Parker",
+    "age": 81,
+    "address": {
+        "street": "Kevin Plaza",
+        "city": "South Arthurtown",
+        "state": "North Carolina",
+        "zip": "40671"
+    },
+    "contact": {
+        "phone": "968-926-3370",
+        "servicePhone": "800267890"
+    },
+    "birthday": "1944-04-10",
+    "ip": "164.195.221.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge modern once break important continue front. Note news television far. Let process trial ahead.",
+        "bio": "Perhaps thus moment. Time however plan fight message coach when.\nHot his third class drop from. Why song employee peace military opportunity point."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
