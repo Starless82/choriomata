@@ -1,0 +1,25 @@
+{
+    "name": "Mark Nichols",
+    "age": 73,
+    "address": {
+        "street": "Pace Motorway",
+        "city": "New Jennifer",
+        "state": "Alabama",
+        "zip": "29790"
+    },
+    "contact": {
+        "phone": "820.956.6930x187",
+        "servicePhone": "800991271"
+    },
+    "birthday": "1952-06-05",
+    "ip": "177.171.58.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice trade deal writer. North probably method skill guess seek cause. Decision why among piece.",
+        "bio": "Wide energy nice whether computer face. Exist age throughout local majority remember player really.\nJob toward sell fear hard star image. Alone ago consumer where bank specific all direction."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
