@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Johnson",
+    "age": 30,
+    "address": {
+        "street": "Emily Hills",
+        "city": "East Robertmouth",
+        "state": "Louisiana",
+        "zip": "23446"
+    },
+    "contact": {
+        "phone": "728-644-4381",
+        "servicePhone": "800744634"
+    },
+    "birthday": "1995-23-07",
+    "ip": "93.188.96.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Court book lawyer play for western experience increase. American focus back mission point grow. Administration college capital daughter nearly leave receive.",
+        "bio": "Do light strategy. Whom until think list small very teach. Type but live free health physical think."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
