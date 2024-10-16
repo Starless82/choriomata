@@ -1,0 +1,25 @@
+{
+    "name": "David Sparks",
+    "age": 101,
+    "address": {
+        "street": "Richard Fields",
+        "city": "Lake Donnaside",
+        "state": "Wisconsin",
+        "zip": "26844"
+    },
+    "contact": {
+        "phone": "(375)820-1177x9988",
+        "servicePhone": "800766292"
+    },
+    "birthday": "1924-02-05",
+    "ip": "124.145.94.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Provide race option girl all life travel. Poor government per kind success only.\nKnow audience my fly. Third maybe base woman car bed sing.",
+        "bio": "Ability my stand agree. Might work short get.\nArm son your relationship front modern. Probably manager total someone. Sign hour theory book exist. Stay over any ready especially."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
