@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Willis",
+    "age": 109,
+    "address": {
+        "street": "Richard Vista",
+        "city": "Michellestad",
+        "state": "Nebraska",
+        "zip": "28829"
+    },
+    "contact": {
+        "phone": "(857)428-5118x0250",
+        "servicePhone": "800592772"
+    },
+    "birthday": "1916-25-12",
+    "ip": "132.178.217.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove ready mother national PM growth hear. Environmental heart contain education drop not control. Off study society future image.",
+        "bio": "Break tonight professor turn. Hotel nature building may town.\nEntire quality poor remember idea. Decide involve factor until stuff such. Or effect everything smile arrive stock Mr."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
