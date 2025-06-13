@@ -1,0 +1,25 @@
+{
+    "name": "Donna Frost",
+    "age": 56,
+    "address": {
+        "street": "Darren Pike",
+        "city": "West Coltonton",
+        "state": "Nevada",
+        "zip": "14760"
+    },
+    "contact": {
+        "phone": "+1-568-657-1732x90401",
+        "servicePhone": "800365693"
+    },
+    "birthday": "1969-23-03",
+    "ip": "48.166.39.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually for especially provide. Operation use positive myself pattern. Through popular wear east.\nHard Mrs mouth much contain area find. Citizen international book drug already responsibility run.",
+        "bio": "Explain fish form table still author. Not onto growth relate out. Huge firm push compare lawyer fill follow.\nChild industry Republican figure effort. Site physical accept toward."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
