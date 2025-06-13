@@ -1,0 +1,25 @@
+{
+    "name": "Brian Ross",
+    "age": 41,
+    "address": {
+        "street": "Matthew Crossing",
+        "city": "North Melissaton",
+        "state": "Idaho",
+        "zip": "95018"
+    },
+    "contact": {
+        "phone": "332-607-2036x2317",
+        "servicePhone": "800615716"
+    },
+    "birthday": "1984-19-02",
+    "ip": "218.70.98.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Manage plan itself think security manage. Interest various foreign certain young figure have. Structure I affect wide.",
+        "bio": "Seat campaign truth. Sort write toward tonight along education successful open."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
