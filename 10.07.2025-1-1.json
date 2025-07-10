@@ -1,0 +1,25 @@
+{
+    "name": "Larry Vazquez",
+    "age": 104,
+    "address": {
+        "street": "Jason Ways",
+        "city": "Christopherside",
+        "state": "California",
+        "zip": "38097"
+    },
+    "contact": {
+        "phone": "999-817-3046x54257",
+        "servicePhone": "800374970"
+    },
+    "birthday": "1921-16-08",
+    "ip": "138.158.135.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil technology plant building consumer hit. Add natural write Democrat plan environment take.",
+        "bio": "Meet people girl close assume worry doctor learn. Address tree few close voice back large. Industry beat born degree hospital claim decision.\nWall art establish week happy hour. Phone choice at."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
