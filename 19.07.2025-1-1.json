@@ -1,0 +1,25 @@
+{
+    "name": "Scott Meyers",
+    "age": 32,
+    "address": {
+        "street": "Booth Ports",
+        "city": "Janiceshire",
+        "state": "New York",
+        "zip": "92755"
+    },
+    "contact": {
+        "phone": "(760)533-6759",
+        "servicePhone": "800806941"
+    },
+    "birthday": "1993-16-10",
+    "ip": "41.18.227.156",
+    "foo": "bar",
+    "profile": {
+        "about": "People commercial picture. Whatever enough meeting theory control.\nDrug anything school remember specific world single really. Nature difference social skin.",
+        "bio": "Image step night include magazine defense. Figure so economy radio art still coach. Appear message front mean evening serve what question."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
