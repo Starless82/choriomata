@@ -1,0 +1,25 @@
+{
+    "name": "Carol Allen",
+    "age": 43,
+    "address": {
+        "street": "Bolton Pine",
+        "city": "South Michael",
+        "state": "Delaware",
+        "zip": "43085"
+    },
+    "contact": {
+        "phone": "9073216696",
+        "servicePhone": "800103258"
+    },
+    "birthday": "1982-27-08",
+    "ip": "12.15.116.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider father protect good. Employee hope personal.\nWater base two. So management player herself of prove.\nCover this wear.\nHospital us manager buy experience case structure.",
+        "bio": "Sister discover pressure could build but table body.\nReal stuff parent media. Record before treatment much piece protect. Such open trade key late explain."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
