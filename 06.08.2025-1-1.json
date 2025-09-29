@@ -1,0 +1,25 @@
+{
+    "name": "Shane Martin",
+    "age": 70,
+    "address": {
+        "street": "Young Flats",
+        "city": "East Joshua",
+        "state": "Illinois",
+        "zip": "59429"
+    },
+    "contact": {
+        "phone": "(471)233-7578x48349",
+        "servicePhone": "800728727"
+    },
+    "birthday": "1955-15-10",
+    "ip": "36.88.169.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark stay skin create decide. Dark partner exactly cup.\nWhatever leg list town. Will remain similar up analysis marriage.",
+        "bio": "Policy threat enjoy entire could of inside off. Resource return tell upon into."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
