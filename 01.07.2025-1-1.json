@@ -1,0 +1,25 @@
+{
+    "name": "Valerie King",
+    "age": 5,
+    "address": {
+        "street": "Luis Extensions",
+        "city": "Turnerville",
+        "state": "New York",
+        "zip": "62711"
+    },
+    "contact": {
+        "phone": "+1-972-560-7798x607",
+        "servicePhone": "800640119"
+    },
+    "birthday": "2020-20-10",
+    "ip": "216.183.30.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Key risk power generation. Step than piece administration people.\nInvolve analysis read there minute firm. Book interest factor.\nFamily travel commercial book fund happy.",
+        "bio": "Beyond past shake chair while practice case. What however policy finish pressure figure right magazine. Move hot life seven eye commercial field. Center major for gas notice environmental big."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
