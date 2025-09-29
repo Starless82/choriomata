@@ -1,0 +1,25 @@
+{
+    "name": "Edward Pierce",
+    "age": 47,
+    "address": {
+        "street": "Harris Vista",
+        "city": "Robertmouth",
+        "state": "Ohio",
+        "zip": "79356"
+    },
+    "contact": {
+        "phone": "001-871-661-1476",
+        "servicePhone": "800309863"
+    },
+    "birthday": "1978-07-10",
+    "ip": "71.193.157.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr will Mrs race body. Star again hard right.\nHow discuss matter responsibility true spring share. Let well stand artist rather source true. Light former tonight past.",
+        "bio": "Into ever imagine research building.\nHeart table final let. Car agency employee ground. Born oil mind address."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
