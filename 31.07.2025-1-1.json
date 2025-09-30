@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Knight",
+    "age": 30,
+    "address": {
+        "street": "Delgado Lock",
+        "city": "Williamstown",
+        "state": "Kentucky",
+        "zip": "67392"
+    },
+    "contact": {
+        "phone": "(208)942-2280x1718",
+        "servicePhone": "800785167"
+    },
+    "birthday": "1995-20-12",
+    "ip": "81.173.239.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Across father down process himself majority wife. Yet character economic fly report. Special theory find foot.",
+        "bio": "Technology its once box him parent TV. Able say security her son lawyer.\nSpecial evidence old who yet better near. More table bag. Author successful determine indeed provide modern believe."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
