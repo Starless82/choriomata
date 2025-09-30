@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Villa",
+    "age": 56,
+    "address": {
+        "street": "Francisco Flats",
+        "city": "West James",
+        "state": "Oklahoma",
+        "zip": "27424"
+    },
+    "contact": {
+        "phone": "624-552-0368",
+        "servicePhone": "800190083"
+    },
+    "birthday": "1969-03-10",
+    "ip": "122.228.246.86",
+    "foo": "bar",
+    "profile": {
+        "about": "All tax town hear. Least instead source place adult.\nEverybody stock message toward season.",
+        "bio": "Material blue media their age avoid. Fund wait low challenge color fine item.\nIdea every rest return. Per scientist girl. Toward standard memory keep."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
