@@ -1,0 +1,25 @@
+{
+    "name": "David Simon",
+    "age": 21,
+    "address": {
+        "street": "Lewis Knoll",
+        "city": "Johnburgh",
+        "state": "West Virginia",
+        "zip": "58973"
+    },
+    "contact": {
+        "phone": "001-484-581-9612x59578",
+        "servicePhone": "800768004"
+    },
+    "birthday": "2004-24-12",
+    "ip": "91.246.159.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Medical move teacher early upon foreign. Inside suddenly read why million difficult.\nMoment finish course instead. Song dream bag by bill soon treat. Prevent heavy fight which bring wonder seek.",
+        "bio": "Environmental response relationship bed up financial amount. Gun over generation bed participant reduce cover. Best process on easy their lead street."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

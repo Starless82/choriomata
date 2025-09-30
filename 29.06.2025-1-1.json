@@ -1,0 +1,25 @@
+{
+    "name": "Robert Robinson",
+    "age": 87,
+    "address": {
+        "street": "Nicholson Ridge",
+        "city": "Lake Courtney",
+        "state": "Rhode Island",
+        "zip": "78798"
+    },
+    "contact": {
+        "phone": "362-373-7185x9487",
+        "servicePhone": "800041574"
+    },
+    "birthday": "1938-21-01",
+    "ip": "69.217.67.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle energy area may tell. Scientist star decade painting edge.\nMother heavy design expert culture yard. Power service audience get increase worry oil.\nPaper young process even doctor mean.",
+        "bio": "Physical theory ground base within adult late. Computer pretty room be goal. Yes have suggest stock effort memory smile."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

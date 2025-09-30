@@ -1,0 +1,25 @@
+{
+    "name": "Jason Moore",
+    "age": 17,
+    "address": {
+        "street": "Jesse Burg",
+        "city": "Lake Jeffery",
+        "state": "South Dakota",
+        "zip": "44484"
+    },
+    "contact": {
+        "phone": "(947)353-5896",
+        "servicePhone": "800750056"
+    },
+    "birthday": "2008-08-10",
+    "ip": "55.18.56.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Language bar watch try many travel generation. Rise resource deal both account knowledge vote mention.\nConcern reach dark specific wear sea agency.",
+        "bio": "Finally back meeting trouble. Grow ok wait together live unit suffer.\nOwn attorney low.\nHour body day."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
