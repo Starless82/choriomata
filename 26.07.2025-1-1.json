@@ -1,0 +1,25 @@
+{
+    "name": "Jasmin Benitez",
+    "age": 61,
+    "address": {
+        "street": "Mccormick Islands",
+        "city": "Joshuafort",
+        "state": "Connecticut",
+        "zip": "16693"
+    },
+    "contact": {
+        "phone": "656.607.6012",
+        "servicePhone": "800036910"
+    },
+    "birthday": "1964-29-10",
+    "ip": "92.79.90.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Term hospital save special material. Building real quickly.\nRisk anything possible most level. Final which edge establish imagine. Everyone either most her anyone her actually.",
+        "bio": "Difference fight build picture thank human. Time together agency truth war no. Great control stop my difficult right son choice. Guy first note cover best major expect."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}

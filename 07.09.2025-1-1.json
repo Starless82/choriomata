@@ -1,0 +1,25 @@
+{
+    "name": "Anna Frank",
+    "age": 102,
+    "address": {
+        "street": "Brown Extension",
+        "city": "East Michael",
+        "state": "Colorado",
+        "zip": "61034"
+    },
+    "contact": {
+        "phone": "+1-646-397-0644x9660",
+        "servicePhone": "800994224"
+    },
+    "birthday": "1923-22-05",
+    "ip": "137.91.56.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill support soon scientist reach brother authority. Star production treat once throw.",
+        "bio": "Challenge look could guy others street. Imagine bill study finally. Part must central candidate medical in."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
