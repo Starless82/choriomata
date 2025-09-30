@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Ronald Wang",
+    "age": 110,
+    "address": {
+        "street": "Emily Path",
+        "city": "New Christopher",
+        "state": "Washington",
+        "zip": "60655"
+    },
+    "contact": {
+        "phone": "(615)345-7530",
+        "servicePhone": "800718848"
+    },
+    "birthday": "1915-26-02",
+    "ip": "184.101.229.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Identify senior win reveal. Another say capital condition.\nTime may fast share. Money interesting interview issue including act. Role key public need school who.",
+        "bio": "Compare official continue sit. Push reach heart big.\nDevelopment fight radio. Arrive religious member. Speak too citizen site. Something foreign blood subject."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}

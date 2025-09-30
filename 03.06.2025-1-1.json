@@ -1,0 +1,25 @@
+{
+    "name": "Alexandria Snyder",
+    "age": 9,
+    "address": {
+        "street": "Martin Camp",
+        "city": "West Joy",
+        "state": "Ohio",
+        "zip": "52895"
+    },
+    "contact": {
+        "phone": "(946)524-3545x1803",
+        "servicePhone": "800552590"
+    },
+    "birthday": "2016-05-04",
+    "ip": "116.51.223.80",
+    "foo": "bar",
+    "profile": {
+        "about": "They learn sense treatment politics especially field. Sister look thousand those mind. Too home down laugh.",
+        "bio": "Week technology so likely goal. Century perform budget list.\nInside light nothing if truth. Age American him without add minute and cost."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Smith",
+    "age": 51,
+    "address": {
+        "street": "Kevin Rest",
+        "city": "Weaverville",
+        "state": "Maryland",
+        "zip": "30394"
+    },
+    "contact": {
+        "phone": "001-456-228-5264x2465",
+        "servicePhone": "800926313"
+    },
+    "birthday": "1974-19-07",
+    "ip": "87.30.102.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Fine pull sister base issue item professor. Reality argue certainly everyone represent recently. Threat life under sound accept main goal.",
+        "bio": "Enter west top center over. Member consumer activity also mother memory. Happen kind away international level activity."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

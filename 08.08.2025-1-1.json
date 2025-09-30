@@ -1,0 +1,25 @@
+{
+    "name": "Amy Barnett",
+    "age": 67,
+    "address": {
+        "street": "Miller Fall",
+        "city": "Lake Josephmouth",
+        "state": "Maryland",
+        "zip": "61583"
+    },
+    "contact": {
+        "phone": "880-541-9755x9831",
+        "servicePhone": "800359236"
+    },
+    "birthday": "1958-01-05",
+    "ip": "117.134.44.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern single different realize than fall true. Himself medical full various suggest western because.\nAttention change voice owner concern friend tell. Loss stage adult go.",
+        "bio": "Party yourself government food general open nature. Media opportunity so agreement believe machine door. Election serious would sometimes simple."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
