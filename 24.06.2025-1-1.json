@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Lee",
+    "age": 52,
+    "address": {
+        "street": "Grant Corners",
+        "city": "Jasonmouth",
+        "state": "Nevada",
+        "zip": "33207"
+    },
+    "contact": {
+        "phone": "(778)870-6568x919",
+        "servicePhone": "800210613"
+    },
+    "birthday": "1973-13-12",
+    "ip": "42.32.246.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Here but speech five certainly. Service situation price top.\nSide team necessary seat. Stand throw name.\nSpecific price look environment society experience. Budget wind sure remain.",
+        "bio": "Support eat whose herself tax return left. Class party source hand sing trial. Heavy case contain.\nNight fight art design eye civil late. Five dinner step choose know instead represent."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
