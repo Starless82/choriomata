@@ -1,0 +1,25 @@
+{
+    "name": "Tyrone Moreno",
+    "age": 57,
+    "address": {
+        "street": "Lozano Heights",
+        "city": "Garyside",
+        "state": "Tennessee",
+        "zip": "37254"
+    },
+    "contact": {
+        "phone": "(513)299-2886x4201",
+        "servicePhone": "800965330"
+    },
+    "birthday": "1968-19-06",
+    "ip": "25.233.178.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Business feeling commercial. Drive but eight we stay. Still green us hotel too on. Movement movie month just arrive.",
+        "bio": "Those plan blue magazine drive stock. Choice still level police board whether scene.\nWoman should clearly let list discuss above. Way until nothing weight offer anything. Head key religious per any."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}

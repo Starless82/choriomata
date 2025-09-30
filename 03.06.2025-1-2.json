@@ -1,0 +1,25 @@
+{
+    "name": "Jason Smith",
+    "age": 107,
+    "address": {
+        "street": "Massey Gateway",
+        "city": "East Jameston",
+        "state": "Wisconsin",
+        "zip": "79741"
+    },
+    "contact": {
+        "phone": "(759)937-0686x000",
+        "servicePhone": "800305960"
+    },
+    "birthday": "1918-31-05",
+    "ip": "6.68.20.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine push again section large sister evidence. Often north forget soon matter crime.\nGuess staff court worker.\nStill data do with its. Unit improve player.",
+        "bio": "Write whose may radio. Away boy always really.\nOf kind two environment. Season beat throughout improve say sense. Phone popular air."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
