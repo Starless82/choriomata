@@ -1,0 +1,25 @@
+{
+    "name": "Laura Marquez",
+    "age": 67,
+    "address": {
+        "street": "Hansen Mount",
+        "city": "Sandersbury",
+        "state": "Massachusetts",
+        "zip": "77634"
+    },
+    "contact": {
+        "phone": "+1-771-264-2208x06372",
+        "servicePhone": "800252290"
+    },
+    "birthday": "1958-07-11",
+    "ip": "183.222.83.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Who another present arrive forward often move paper. Should over phone know four.\nDrop sit family seat. Capital create team check.",
+        "bio": "Down job husband goal. Store technology foreign network term. Small brother president blood interest."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
