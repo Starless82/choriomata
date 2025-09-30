@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Collins",
+    "age": 43,
+    "address": {
+        "street": "Jeremy Causeway",
+        "city": "North Caitlinmouth",
+        "state": "Idaho",
+        "zip": "29719"
+    },
+    "contact": {
+        "phone": "+1-807-962-8626",
+        "servicePhone": "800860624"
+    },
+    "birthday": "1982-05-12",
+    "ip": "40.76.240.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Property just car. Talk foot book number born visit his.\nDetail dream couple let plan there our. Oil color later billion. Different half project find.",
+        "bio": "I appear staff business upon quite have. Case exist international because help. Necessary cut full adult firm.\nServe participant major heart. Head figure adult serious. Some Democrat understand role."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

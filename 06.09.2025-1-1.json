@@ -1,0 +1,25 @@
+{
+    "name": "Billy Peters",
+    "age": 109,
+    "address": {
+        "street": "James Field",
+        "city": "West Gabriela",
+        "state": "Utah",
+        "zip": "91849"
+    },
+    "contact": {
+        "phone": "493-554-6080",
+        "servicePhone": "800668707"
+    },
+    "birthday": "1916-20-09",
+    "ip": "102.28.231.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Information property model. Value production him down. Talk administration possible and whose financial. Individual alone can quite center.",
+        "bio": "Quite human hour after contain public region. Consumer game fund most dog. Radio security onto south hold. Arrive garden lot official listen know statement task."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}

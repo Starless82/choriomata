@@ -1,0 +1,25 @@
+{
+    "name": "Charles Moran",
+    "age": 88,
+    "address": {
+        "street": "David Harbors",
+        "city": "East Jenniferport",
+        "state": "Hawaii",
+        "zip": "20493"
+    },
+    "contact": {
+        "phone": "001-211-777-3055x326",
+        "servicePhone": "800838897"
+    },
+    "birthday": "1937-24-02",
+    "ip": "120.235.76.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Write do fly big news nature question. Plant later article prove finally site do. Picture fill instead perform cultural down property.",
+        "bio": "Former drop financial detail perhaps change. Window realize detail whose."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
