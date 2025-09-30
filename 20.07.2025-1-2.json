@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Smith",
+    "age": 45,
+    "address": {
+        "street": "Walker Villages",
+        "city": "Gomezmouth",
+        "state": "Hawaii",
+        "zip": "73245"
+    },
+    "contact": {
+        "phone": "(591)455-6915x2504",
+        "servicePhone": "800449882"
+    },
+    "birthday": "1980-20-07",
+    "ip": "68.80.42.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Can certainly industry these environmental. Husband pressure set social second what population. Church discussion add on key.",
+        "bio": "Agent on network central seat instead. System member drive feeling note."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

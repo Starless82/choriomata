@@ -1,0 +1,25 @@
+{
+    "name": "Tamara Hawkins",
+    "age": 9,
+    "address": {
+        "street": "Isaiah Land",
+        "city": "North Jenniferberg",
+        "state": "Nebraska",
+        "zip": "76662"
+    },
+    "contact": {
+        "phone": "320.844.5482x3917",
+        "servicePhone": "800623492"
+    },
+    "birthday": "2016-21-12",
+    "ip": "216.47.219.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful ground rise war. Hold this will expert employee. Certainly reason dog among program.",
+        "bio": "Director idea rich without. Environment age thing poor.\nWalk professor this present ten. Perform often yourself happen travel week impact. Story me build total break."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}

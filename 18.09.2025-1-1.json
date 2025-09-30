@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Nichols",
+    "age": 46,
+    "address": {
+        "street": "Hayden Islands",
+        "city": "Kristinhaven",
+        "state": "Kentucky",
+        "zip": "75691"
+    },
+    "contact": {
+        "phone": "863.207.7572x2228",
+        "servicePhone": "800495181"
+    },
+    "birthday": "1979-14-04",
+    "ip": "39.13.100.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor them teach like action issue. Understand follow live travel need hotel. Dream hard look economy month wall opportunity. Hotel standard fill son chance son.",
+        "bio": "Never how myself talk strong treatment true positive. Treat state suffer avoid.\nTerm daughter agency."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

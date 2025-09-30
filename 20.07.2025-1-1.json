@@ -1,0 +1,25 @@
+{
+    "name": "John Cummings",
+    "age": 68,
+    "address": {
+        "street": "Kevin Mission",
+        "city": "Port Stevenshire",
+        "state": "Minnesota",
+        "zip": "12049"
+    },
+    "contact": {
+        "phone": "001-422-255-8223x331",
+        "servicePhone": "800782173"
+    },
+    "birthday": "1957-02-11",
+    "ip": "214.224.192.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail half energy management establish method. Six score smile heavy stage. Style wear operation. Later happen decision.",
+        "bio": "Attention by give home no begin various. Defense meeting contain political attention."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
