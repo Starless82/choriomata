@@ -1,0 +1,25 @@
+{
+    "name": "James Bowen",
+    "age": 68,
+    "address": {
+        "street": "Laura Junctions",
+        "city": "East Christian",
+        "state": "Nevada",
+        "zip": "11340"
+    },
+    "contact": {
+        "phone": "946-419-4339x2684",
+        "servicePhone": "800843121"
+    },
+    "birthday": "1957-13-01",
+    "ip": "148.139.97.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Me make movement while. More future one. Everybody however fly often course personal practice.\nShake physical shoulder season ok actually occur people.",
+        "bio": "Treat movement buy suggest so."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
